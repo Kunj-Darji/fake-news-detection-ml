@@ -32,7 +32,6 @@ fake-news-detection-ml/
 │
 ├── data/
 ├── notebooks/
-├── screenshots/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
