@@ -72,12 +72,6 @@ Open Jupyter Notebook or Google Colab.
 
 ---
 
-## 📸 Output Screenshot
-
-(Add screenshots inside `/screenshots` folder)
-
----
-
 ## 👨‍💻 Author
 
 Kunj Darji
